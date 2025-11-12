@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 692a75ad-b2c5-4e56-9c49-9232383dbf5b
+      url: 'https://eloquent-quokka-d66f28.netlify.app'

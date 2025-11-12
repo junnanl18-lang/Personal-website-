@@ -4,21 +4,7 @@
     "href": "index.html",
     "title": "Junnan",
     "section": "",
-    "text": "📧 junnanl18@g.ucla.edu 4th-year undergraduate student Data Science & Statistics Institute University of California, Los Angeles\n\n\n\n\nB.S. in Data Science & Statistics, 2026 University of California, Los Angeles\nTransfer in Computer Science, 2025 Mt. San Antonio College\n\n\n\n\n\nHi, I’m Junnan, an undergraduate in Data Science & Statistics at UCLA.\nMy life has been shaped by turning points and restarts—from moving between cities in childhood, to switching from humanities to STEM, to restarting my college path in the U.S.\nAt community college, I rebuilt from zero: I founded the Math Club, organized competitions, and served as a Student Services Senator, graduating with a 3.97 GPA.\nThis led me to UCLA, where I now maintain a 3.7 GPA while pursuing my passion for statistics, data science, and machine learning.\nThrough two ongoing research positions, I apply data methods in medicine, the social sciences, and advanced machine learning.\nEach experience deepens my interest in data-driven research and strengthens my goal of continuing to graduate study in data science and statistics.\n\n\n\n\n\nApplied Statistics & Machine Learning\n\nData Science for Medicine & Health\n\nStatistical Computing\n\nLLM and ML"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Junnan",
-    "section": "",
-    "text": "B.S. in Data Science & Statistics, 2026\nUniversity of California, Los Angeles\n\nTransfer in Computer Science, 2025\nMt. San Antonio College"
+    "text": "Junnan Lyu(Junnan)\njunnanl18@g.ucla.edu\n4th-year undergraduate  student at Data Science & Statistics Insitute\nUniversity of California, Los Angeles\n\n\nB.S. in Data Science & Statistics, 2026 \nUniversity of California, Los Angeles\nTransfer  Computer Science  2025\nMt.San  Antonio  College  \n\n\n📧 junnanl18@g.ucla.edu 4th-year undergraduate student Data Science & Statistics Institute University of California, Los Angeles\n\n\n\n\nB.S. in Data Science & Statistics, 2026 University of California, Los Angeles\nTransfer in Computer Science, 2025 Mt. San Antonio College\n\n\n\n\n\n\nHi, I’m Junnan, an undergraduate in Data Science & Statistics at UCLA.\nMy life has been shaped by turning points and restarts—from moving between cities in childhood, to switching from humanities to STEM, to restarting my college path in the U.S.\nAt community college, I rebuilt from zero: I founded the Math Club, organized competitions, and served as a Student Services Senator, graduating with a 3.97 GPA.\nThis led me to UCLA, where I now maintain a 3.7 GPA while pursuing my passion for statistics, data science, and machine learning.\nThrough two ongoing research positions, I apply data methods in medicine, the social sciences, and advanced machine learning.\nEach experience deepens my interest in data-driven research and strengthens my goal of continuing to graduate study in data science and statistics.\n\n\n\n\n\nApplied Statistics & Machine Learning\n\nData Science for Medicine & Health\n\nStatistical Computing\n\nLLM and ML\n::::\n:::::"
   },
   {
     "objectID": "index.html#about-junnan",
@@ -33,62 +19,6 @@
     "title": "Junnan",
     "section": "",
     "text": "Applied Statistics & Machine Learning\n\nData Science for Medicine & Health\n\nStatistical Computing\n\nLLM and ML"
-  },
-  {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Undergraduate Research Assistant\nUCLA Department of Statistics\nJune 2025 – Present · Los Angeles, CA\nConducting research on statistical learning methods applied to medical imaging and human symptom datasets.\nDeveloped Python/R pipelines for data cleaning, feature engineering, and distribution checks.\nCollaborating with clinical researchers to integrate annotations and evaluate model consistency."
-  },
-  {
-    "objectID": "Projects.html#research-projects",
-    "href": "Projects.html#research-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Undergraduate Research Assistant\nUCLA Department of Statistics\nJune 2025 – Present · Los Angeles, CA\nConducting research on statistical learning methods applied to medical imaging and human symptom datasets.\nDeveloped Python/R pipelines for data cleaning, feature engineering, and distribution checks.\nCollaborating with clinical researchers to integrate annotations and evaluate model consistency."
-  },
-  {
-    "objectID": "Projects.html#academic-competition-projects",
-    "href": "Projects.html#academic-competition-projects",
-    "title": "Projects",
-    "section": "Academic & Competition Projects",
-    "text": "Academic & Competition Projects\nDataFest 2025 — Team “The Sleepy Models”\nUCLA, Ackerman Grand Ballroom\nApril 2025 · Los Angeles, CA\nAnalyzed Savills commercial real-estate dataset focusing on leasing trends across LA sub-markets.\nBuilt regression models to study expansion vs. contraction and industry clustering effects.\nPresented results to Savills stakeholders; highlighted migration patterns from expensive districts."
-  },
-  {
-    "objectID": "Projects.html#presidential-election-forecast-from-scratch-ml",
-    "href": "Projects.html#presidential-election-forecast-from-scratch-ml",
-    "title": "Projects",
-    "section": "Presidential Election Forecast (from-scratch ML)",
-    "text": "Presidential Election Forecast (from-scratch ML)\nUCLA · Course Project\nSep 2024 – Dec 2024 · Los Angeles, CA\nImplemented Naive Bayes, KNN, and Random Forest models in R.\nDesigned custom functions (my_split, prime_factor, newtonraphson_show) to replicate core algorithms.\nAchieved competitive accuracy on classification datasets without external libraries."
-  },
-  {
-    "objectID": "Projects.html#seizure-feature-analysis",
-    "href": "Projects.html#seizure-feature-analysis",
-    "title": "Projects",
-    "section": "Seizure Feature Analysis",
-    "text": "Seizure Feature Analysis\n(Expert vs Novice feature distributions.)"
-  },
-  {
-    "objectID": "Projects.html#some-result-output-graph",
-    "href": "Projects.html#some-result-output-graph",
-    "title": "Projects",
-    "section": "Some result output graph",
-    "text": "Some result output graph"
-  },
-  {
-    "objectID": "Projects.html#the-relationship-in-the-areas-and-potential",
-    "href": "Projects.html#the-relationship-in-the-areas-and-potential",
-    "title": "Projects",
-    "section": "The relationship in the Areas and Potential",
-    "text": "The relationship in the Areas and Potential"
-  },
-  {
-    "objectID": "Projects.html#the-performance-in-different-models",
-    "href": "Projects.html#the-performance-in-different-models",
-    "title": "Projects",
-    "section": "The Performance in different models",
-    "text": "The Performance in different models"
   },
   {
     "objectID": "projects.html",
