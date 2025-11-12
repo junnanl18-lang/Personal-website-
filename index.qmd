@@ -1,0 +1,64 @@
+---
+title: "Junnan Lyu"
+---
+
+---
+title: "Junnan"
+---
+
+::::: {style="display: flex; align-items: flex-start; gap: 50px;"}
+:::: {style="flex: 0 0 260px; text-align: center;"}
+![](https://lh7-rt.googleusercontent.com/sitesz/AClOY7rs_XgXPZ7Brj8VpSJ6BNxMpvRc2yrP48dcfxlwisnEmIRKRpKQOAR1hGNOx_Hsv11FdsRZf0YXw58YB6UIGd9n3-qoqknLRTCRUrXKlAmSXtK2ZVvvBwu3z9ccIzdMlRIMoRFweEbR8SpqO8m2M1pfdOXAuyKoQQhlSls5WQm0V6SZZOJu?key=-sYEygVDFHfuVODoEwSlQw){width="193"}
+
+<h3 style="margin-bottom: 5px;">
+
+Junnan Lyu (Junnan)
+
+</h3>
+
+<p style="margin: 0;">
+
+📧 <a href="mailto:junnanl18@g.ucla.edu">junnanl18\@g.ucla.edu</a><br> 4th-year undergraduate student<br> Data Science & Statistics Institute<br> University of California, Los Angeles
+
+</p>
+
+<hr style="margin: 20px 0;">
+
+<h4>Education</h4>
+
+<p style="text-align: left;">
+
+<strong>B.S. in Data Science & Statistics</strong>, 2026<br> <a href="https://www.ucla.edu">University of California, Los Angeles</a><br><br>
+
+<strong>Transfer in Computer Science</strong>, 2025<br> <a href="https://www.mtsac.edu">Mt. San Antonio College</a>
+
+</p>
+
+</div>
+
+::: {style="flex: 1;"}
+## About Junnan
+
+Hi, I’m Junnan, an undergraduate in Data Science & Statistics at UCLA.
+
+My life has been shaped by turning points and restarts—from moving between cities in childhood, to switching from humanities to STEM, to restarting my college path in the U.S.
+
+At community college, I rebuilt from zero: I founded the Math Club, organized competitions, and served as a Student Services Senator, graduating with a 3.97 GPA.\
+This led me to UCLA, where I now maintain a 3.7 GPA while pursuing my passion for statistics, data science, and machine learning.
+
+Through two ongoing research positions, I apply data methods in medicine, the social sciences, and advanced machine learning.\
+Each experience deepens my interest in data-driven research and strengthens my goal of continuing to graduate study in data science and statistics.
+
+------------------------------------------------------------------------
+
+## Research Interests
+
+-   Applied Statistics & Machine Learning\
+-   Data Science for Medicine & Health\
+-   Statistical Computing\
+-   LLM and ML
+:::
+
+</div>
+
+

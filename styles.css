@@ -1,0 +1,26 @@
+/* css styles */
+
+h1, h2, h3 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  color: #5b4422;
+}
+
+p, li {
+  font-family: "Georgia", serif;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+img {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
