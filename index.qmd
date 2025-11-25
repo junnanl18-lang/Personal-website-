@@ -79,8 +79,8 @@ Each experience deepens my interest in data-driven research and strengthens my g
 ------------------------------------------------------------------------
 
 ## My CV
-[My CV](asset/Junnan_Lyu_CV.pdf){target="_blank"}
-[Download CV](asset/Junnan_Lyu_CV.pdf){download=true}
+[My CV](/www/cv.pdf){target="_blank"}
+[Download CV](/www/cv.pdf){download=true}
 
 :::
 
